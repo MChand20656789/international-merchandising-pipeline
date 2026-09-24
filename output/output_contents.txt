@@ -1,0 +1,7 @@
+output/
+├── cleaned_sales.csv
+├── cleaned_inventory.csv
+├── records_for_review.csv
+├── data_quality_report.txt
+├── sql_results.txt
+└── international_merchandising.db
