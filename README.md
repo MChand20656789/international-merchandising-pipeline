@@ -8,6 +8,10 @@ The pipeline uses **Python and Pandas** to ingest, clean, standardize, validate,
 
 The project focuses on the data-quality and reporting challenges that arise when combining operational data from multiple regional sources.
 
+### Demo Video
+https://github.com/user-attachments/assets/cea6ecad-bfbe-491f-8135-23ffd8837dea
+
+
 ---
 
 ## Project Objective
