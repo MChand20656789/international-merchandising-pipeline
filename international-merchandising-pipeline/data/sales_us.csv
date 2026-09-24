@@ -1,0 +1,13 @@
+order_id,country,order_date,currency,product,quantity,unit_price
+1001,United States,08/01/2026,USD,Running Shoes,2,65.00
+1002,USA,2026-08-01,USD,Sandals,1,35.00
+1003,US,08/02/2026,USD,Sneakers,3,55.00
+1004,United States,2026/08/02,USD,Hoodie,2,48.00
+1005,USA,08/03/2026,USD,Running Shoes,1,70.00
+1006,US,2026-08-03,USD,Sneakers,2,58.00
+1007,United States,08/04/2026,USD,Sandals,3,34.00
+1008,USA,2026/08/04,USD,Socks,5,12.00
+1009,US,08/05/2026,USD,Running Shoes,2,68.00
+1010,United States,2026-08-05,USD,Jacket,1,85.00
+1011,USA,08/06/2026,USD,Sneakers,1,60.00
+1012,US,2026/08/06,USD,Hoodie,2,50.00
